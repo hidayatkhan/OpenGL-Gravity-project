@@ -1,5 +1,5 @@
 #include<cstdlib>
-#include <glut.h>
+#include<GL\glut.h>
 #include <vector>
 #include <cmath>
 #include <iostream>
